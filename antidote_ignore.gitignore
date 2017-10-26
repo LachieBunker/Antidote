@@ -1,0 +1,20 @@
+#Asset Folders#
+/Art/*
+/Build/*
+/MusicSamples/*
+/Antidote/Liibrary/*
+/Antidote/obj/*
+/Antidote/ProjectSettings/*
+/Antidote/Assets/Animations/*
+/Antidote/Assets/Levels/*
+/Antidote/Assets/Materials/*
+/Antidote/Assets/MenuImages/*
+/Antidote/Assets/Prefabs/*
+/Antidote/Assets/Textures/*
+
+#Generic File Types#
+*.zip
+/*.txt
+
+#Unity Files Types#
+*.meta
